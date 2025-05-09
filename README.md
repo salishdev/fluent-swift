@@ -1,11 +1,11 @@
 # fluent-swift
-A collection of Swift solutions, patterns, and playgrounds for mastering the language and demonstrating practical fluency.
+Exploring Swift through algorithms, patterns, and playgrounds: LeetCode, AoC, and beyond.
 
 This repository contains some exploration of Swift through hands-on problem solving. It includes solutions to algorithmic challenges (e.g., LeetCode, Advent of Code), language experiments, and examples of idiomatic Swift using modern patterns and best practices.
 
 
 ## 🔍 Why This Exists
-Swift is an expressive and powerful language used across iOS, macOS, and server-side development. I created this repository to:
+I created this repository to:
 
 * Sharpen my problem-solving skills in Swift
 * Explore the language's modern features and concurrency model
